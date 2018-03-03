@@ -10,6 +10,6 @@
 4.更多<br><br><br>
 ![image](https://github.com/nanjiale/LeShop/blob/master/eximgs/%E6%9B%B4%E5%A4%9A.png)<br><br><br>
 5.如何运行?<br><br><br>
-		5.1.先安装依赖 yarn install
-		5.2.在安卓运行  react-native run-android
-		5.3.在ios运行 react-native run-ios
+		5.1.先安装依赖 yarn install<br>
+		5.2.在安卓运行  react-native run-android<br>
+		5.3.在ios运行 react-native run-ios<br>
